@@ -11,7 +11,7 @@ author={Song, Weiwei and Gao, Zhi and Dian, Renwei and Ghamisi, Pedram and Zhang
 
 journal={IEEE Transactions on Geoscience and Remote Sensing},
 
-year={10.1109/TGRS.2022.3143571},
+DOI={10.1109/TGRS.2022.3143571},
 
 publisher={IEEE}
 
