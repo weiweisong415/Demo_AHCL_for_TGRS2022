@@ -4,6 +4,7 @@ This is the code implementation for our paper "Asymmetric Hash Code Learning for
 If you use this code in your work, please kindly cite our paper:
 
 @article{song2022, 
+
 title={Asymmetric Hash Code Learning for Remote Sensing Image Retrieval},
 
 author={Song, Weiwei and Gao, Zhi and Dian, Renwei and Ghamisi, Pedram and Zhang, Yongjun and Benediktsson, J{'o}n Atli},
