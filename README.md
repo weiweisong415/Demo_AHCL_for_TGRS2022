@@ -29,7 +29,11 @@ torchvision
 ### 2. Data processing:
 Download the WHU-RS data set from https://pan.baidu.com/s/1CtnEv0p6tbAYGBscgdTDsA , the passwords are: v5ac. 
 upzip the data file into ./data/WHURS-19/
+If you have trouble in downloading this dataset through Buidu Drive, please contact me, I will send it to you through Google Drive.
+
 ### 3. Demo:
 ```python
 python Demo_AHCL_WHURS19.py
 ```
+
+If you have any questions about this code, please contact me: weiweisong415@gmail.com
