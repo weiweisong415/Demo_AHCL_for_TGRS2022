@@ -282,7 +282,7 @@ def adsh_algo(code_length):
 if __name__=="__main__":
     global opt, logdir
     opt = parser.parse_args()
-    logdir = '-'.join(['log/ADSH_S-WHURS19', datetime.now().strftime("%y-%m-%d-%H-%M-%S")])
+    logdir = '-'.join(['log/AHCL-WHURS19', datetime.now().strftime("%y-%m-%d-%H-%M-%S")])
     _logging()
     _record()
     map_all = []
